@@ -1,0 +1,9 @@
+{
+    "format": "png",
+    "name": "tuiles_bis",
+    "version": "1.1",
+    "type": "overlay",
+    "minzoom": "10",
+    "maxzoom": "19",
+    "bounds": "55.4168,-20.9334,55.5162,-20.8683"
+}
